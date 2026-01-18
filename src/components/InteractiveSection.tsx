@@ -62,20 +62,7 @@ export const InteractiveSection = () => {
               className="relative aspect-[3/4] md:translate-y-[-100px]"
             >
               <img 
-                src="<div className="relative">
-  <img 
-    src="https://images.pexels.com/photos/33861182/pexels-photo-33861182.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800" 
-    alt="Detailed view of industrial pipes and structures in Duisburg, showcasing industrial architecture."
-    width="2560"
-    height="3200"
-    className="w-full h-full object-cover"
-  />
-  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent p-2">
-    <a href="https://www.pexels.com/photo/industrial-structures-in-duisburg-germany-33861182/" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-400 hover:text-slate-300 transition-colors">
-      Photo by Jakub Zerdzicki on Pexels
-    </a>
-  </div>
-</div>" 
+                src="https://images.pexels.com/photos/33861182/pexels-photo-33861182.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800" 
                 alt="Driver Profile"
                 className="w-full h-full object-cover grayscale contrast-125 border-2 border-transparent hover:border-acid transition-all duration-500"
               />

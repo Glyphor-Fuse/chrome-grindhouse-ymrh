@@ -10,20 +10,7 @@ export const Footer = () => {
              <h4 className="font-body text-danger tracking-widest text-sm mb-4">LIVE FEED PENDING</h4>
              <div className="w-full h-64 bg-black border border-white/20 relative overflow-hidden group">
                 <img 
-                    src="<div className="relative">
-  <img 
-    src="https://images.pexels.com/photos/15573679/pexels-photo-15573679.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" 
-    alt="A vintage CRT television displaying static noise in a minimalist room setting."
-    width="3930"
-    height="2642"
-    className="w-full h-full object-cover"
-  />
-  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent p-2">
-    <a href="https://www.pexels.com/photo/tv-on-chair-in-corner-15573679/" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-400 hover:text-slate-300 transition-colors">
-      Photo by Quang Lự Đỗ on Pexels
-    </a>
-  </div>
-</div>" 
+                    src="https://images.pexels.com/photos/15573679/pexels-photo-15573679.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" 
                     className="w-full h-full object-cover opacity-50 mix-blend-overlay" 
                     alt="Static"
                 />
@@ -39,10 +26,10 @@ export const Footer = () => {
             </p>
             
             <div className="mt-12 grid grid-cols-2 gap-4 font-body text-sm text-gray-500">
-                <a href="#" className="hover:text-acid transition-colors">Instagram -></a>
-                <a href="#" className="hover:text-acid transition-colors">TikTok -></a>
-                <a href="#" className="hover:text-acid transition-colors">Discord -></a>
-                <a href="#" className="hover:text-acid transition-colors">Legal (LOL) -></a>
+                <a href="#" className="hover:text-acid transition-colors">Instagram -&gt;</a>
+                <a href="#" className="hover:text-acid transition-colors">TikTok -&gt;</a>
+                <a href="#" className="hover:text-acid transition-colors">Discord -&gt;</a>
+                <a href="#" className="hover:text-acid transition-colors">Legal (LOL) -&gt;</a>
             </div>
           </div>
         </div>
